@@ -4,3 +4,5 @@
 /_C/libtriton.so
 /backends/metax/bin/mlir-opt
 /_C/libtriton.so
+/backends/metax/bin/mlir-opt
+/_C/libtriton.so
